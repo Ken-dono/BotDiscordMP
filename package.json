@@ -1,0 +1,12 @@
+{
+  "name": "BotDiscordMP",
+  "version": "0.1.0",
+  "description": "Projet Tuteuré BotDiscordMP",
+  "main": "main.js",
+  "repository": "https://github.com/Ken-dono/BotDiscordMP.git",
+  "author": "Ken-dono <kendono0206@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
